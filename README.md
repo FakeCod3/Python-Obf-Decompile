@@ -27,8 +27,8 @@ print(base64.b64decode(trust).decode ())
 and you get the deobfuscate code.
 
 ```
-print('hello it's me wykz')
+print('hello it's me 64Bit-C)
 ```
 
-Don't forget to star the repository !
+Don't forget to star the repository ⭐⭐!
 # decompile-python-obf
